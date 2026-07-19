@@ -7,7 +7,7 @@
 
 ### Обо мне
 
-Разрабатываю современные веб-приложения, учусь в СГУ, изучаю QA
+Внедряю IT решения для бизнеса
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cyber-bober&label=Просмотров+профиля&color=00FF88&style=for-the-badge" alt="Cyber-bober" />
